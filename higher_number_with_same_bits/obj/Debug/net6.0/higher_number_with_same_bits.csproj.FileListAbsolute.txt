@@ -1,0 +1,15 @@
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\obj\Debug\net6.0\higher_number_with_same_bits.GeneratedMSBuildEditorConfig.editorconfig
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\obj\Debug\net6.0\higher_number_with_same_bits.AssemblyInfoInputs.cache
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\obj\Debug\net6.0\higher_number_with_same_bits.AssemblyInfo.cs
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\obj\Debug\net6.0\higher_number_with_same_bits.csproj.CoreCompileInputs.cache
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\obj\Debug\net6.0\higher_number_with_same_bits.sourcelink.json
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\bin\Debug\net6.0\higher_number_with_same_bits.exe
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\bin\Debug\net6.0\higher_number_with_same_bits.deps.json
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\bin\Debug\net6.0\higher_number_with_same_bits.runtimeconfig.json
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\bin\Debug\net6.0\higher_number_with_same_bits.dll
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\bin\Debug\net6.0\higher_number_with_same_bits.pdb
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\obj\Debug\net6.0\higher_number_with_same_bits.dll
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\obj\Debug\net6.0\refint\higher_number_with_same_bits.dll
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\obj\Debug\net6.0\higher_number_with_same_bits.pdb
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\obj\Debug\net6.0\higher_number_with_same_bits.genruntimeconfig.cache
+D:\HD IGOR\source\code_wars\higher_number_with_same_bits\higher_number_with_same_bits\obj\Debug\net6.0\ref\higher_number_with_same_bits.dll
