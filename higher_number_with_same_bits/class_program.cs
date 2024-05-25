@@ -13,7 +13,7 @@ public class Kata
                 next_number = value + 1;
                 //call to transform next into bits
                 var result_2=BinaryConversor(next_number);
-                //verify the     condition
+                //verify the condition
                 if (result.c == result_2.c) { v = 1; }
             }
             return next_number;

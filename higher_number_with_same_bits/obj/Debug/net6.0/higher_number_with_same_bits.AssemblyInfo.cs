@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("higher_number_with_same_bits")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ca5da1bb44c7ab182d989e0d80d450cd219d1c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5024b0d72df71520ac65a424123a07dd4b962b42")]
 [assembly: System.Reflection.AssemblyProductAttribute("higher_number_with_same_bits")]
 [assembly: System.Reflection.AssemblyTitleAttribute("higher_number_with_same_bits")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
